@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Kadcyla-HCP/src/library&apos;&#x0D;&#x0A;- Original project: &apos;Kadcyla-Patient&apos;&#x0D;&#x0A;- Destination element: &apos;Kadcyla-HCP/src/library&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     library.fullpage.java&#x0D;&#x0A;     library.visiblescreen.java" description="Copy compilation units" destination="=Kadcyla-HCP/src&lt;library" element1="/src&lt;library{fullpage.java" element2="/src&lt;library{visiblescreen.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1509094222675" units="2" version="1.0"/>
+</session>
